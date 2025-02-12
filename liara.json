@@ -1,0 +1,14 @@
+{  
+  "app":"back-safarman",
+  "port": 80,
+  "disks": [
+    {
+      "name": "media",
+      "mountTo": "media"
+    }
+  ],
+    "django": {
+    "geospatial": true,
+    "pythonVersion": "3.10"
+  }
+}

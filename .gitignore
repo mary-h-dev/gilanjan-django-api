@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables
+.env
+*.env
+
+# Django specific
+/static/
+/media/
+/db.sqlite3
+
+# Logs
+*.log
+
+# IDE and OS generated files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary and backup files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Frontend related
+node_modules/
+dist/
