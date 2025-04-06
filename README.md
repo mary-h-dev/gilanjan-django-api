@@ -1,6 +1,6 @@
 # GilanJan Backend
 
-This is the backend of the **GilanJan** project, built with Django and Django REST Framework. It powers a real estate platform for listing and booking properties across Gilan province. The backend handles user authentication, real-time messaging, property management, and API endpoints consumed by the Next.js frontend.
+This is the backend of the **GilanJan** project, built with Django and Django REST Framework. It powers a Short-term rental platform for tourists and locals in Gilan province. The backend handles user authentication, real-time messaging, property management, and API endpoints consumed by the Next.js frontend.
 
 ---
 
